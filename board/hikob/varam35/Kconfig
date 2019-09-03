@@ -1,0 +1,19 @@
+if TARGET_HIKOB_VARAM35
+
+config SYS_BOARD
+    string
+	default "varam35"
+
+config SYS_VENDOR
+    string
+	default "hikob"
+
+config SYS_CONFIG_NAME
+    string
+	default "hikob_varam35"
+
+config SPL
+    bool
+    default "y"
+
+endif

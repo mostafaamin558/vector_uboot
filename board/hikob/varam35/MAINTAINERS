@@ -1,0 +1,6 @@
+HIKOB VARAM35 BOARD
+M:	Antoine Fraboulet <antoine.fraboulet@hikob.com>
+S:	Maintained
+F:	board/hikob/varam35/
+F:	include/configs/hikob_varam35.h
+F:	configs/hikob_varam35_defconfig
